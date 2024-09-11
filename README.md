@@ -34,8 +34,8 @@ Currently, two official plugins are available:
 Follow these steps to set up the project on your local machine:
 
  ## **Clone the repository:**
-  - git clone https://github.com/Gaurav2418/Advanced-ToDo-List.git
-  -  cd Advanced-ToDo-List
+  - git clone https://github.com/Gaurav2418/exonect-assignement
+  -  cd exonect-assignement
     
 ## Install Node modules:
   -npm install
@@ -50,6 +50,14 @@ Follow these steps to set up the project on your local machine:
 (Note- make sure json-server is live before launching this project)
 
   -npx json-server --watch db.json --port 5000
+  
+## if json-server is not working or UI is not visible to you then follow this steps
+1) Open PowerShell as Administrator:
+   (copy paste this commands)
+  - Get-ExecutionPolicy
+  - Set-ExecutionPolicy RemoteSigned
+2) verify the Policy Change:
+it must be RemoteSigned
 
 ## Start the React application:
   -npm run dev
@@ -58,9 +66,6 @@ Follow these steps to set up the project on your local machine:
 
 
 
-## Note-
-This Read me file may have some incomplete instructions about how to set up this project on your local macine and overall info about the project but I will try to add this details as soon as possible
-
-(There are some inconsistencies in this project I'll fix it soon...)
+if any diffculties then please feel free to reach out to me 
 
 Thank You...
