@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "2",
+      "name": "Manish",
+      "emailId": "xyz@gmail.com",
+      "rollNo": "26"
+    },
+    {
+      "id": "4",
+      "name": "Aditya",
+      "emailId": "aditya@gmail.com",
+      "rollNo": "24"
+    },
+    {
+      "id": "6",
+      "name": "Raj",
+      "emailId": "raj@gmail.com",
+      "rollNo": "28"
+    },
+    {
+      "id": "11",
+      "name": "Sam",
+      "emailId": "sam@gmail.com",
+      "rollNo": "22"
+    },
+    {
+      "name": "Gaurav Wakhare",
+      "rollNo": "243",
+      "emailId": "abcTest@gmail.com",
+      "id": "57f1"
+    },
+    {
+      "id": "5415",
+      "name": "Dummy Data",
+      "rollNo": "123",
+      "emailId": "Dummy@gmail.com"
+    },
+    {
+      "id": "734f",
+      "name": "Akash",
+      "rollNo": "74",
+      "emailId": "Akash@gmail.com"
+    },
+    {
+      "id": "ed48",
+      "name": "manasi",
+      "rollNo": "43",
+      "emailId": "masasi@gmai.com"
+    },
+    {
+      "id": "efd8",
+      "name": "dummy2",
+      "rollNo": "38",
+      "emailId": "dummy2341@gmail.m"
+    },
+    {
+      "id": "786b",
+      "name": "dummy3",
+      "rollNo": "42",
+      "emailId": "dummy3@gmail.com"
+    },
+    {
+      "name": "adgdf",
+      "rollNo": "25",
+      "emailId": "agfa",
+      "id": "4b98"
+    }
+  ]
+}
